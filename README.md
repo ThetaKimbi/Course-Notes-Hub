@@ -34,7 +34,7 @@ These notes reflect my personal understanding of the lectures. If you are a fell
 - **Conceptual gaps** that could be improved;
 - **New topics or additional content** that should be included;
 
-Please feel free to open an **[Issue](https://github.com/ThetaKimbi/MSc-Computer-Engineering-Notes/issues)** or submit a **Pull Request** with supplementary material. Every fix helps the PoliMi community!
+Please feel free to open an **[Issue](https://github.com/ThetaKimbi/Course-Notes-Hub/issues)** or submit a **Pull Request** with supplementary material. Every fix helps the PoliMi community!
 
 ---
 
