@@ -24,7 +24,7 @@ Welcome to my academic knowledge base. This repository hosts a collection of **h
 - **Delivery:** Exported as high-quality **PDFs** organized by module or topic.
 - **Language:** English.
 
-📌 **Note on Searchability:** Since these are handwritten notes, they are not full-text searchable. I have organized them into logically named files (e.g., `Module_01_TopicName.pdf`) to help you find specific content quickly.
+📌 **Note on Searchability:** Since these are handwritten notes, they are not full-text searchable.
 
 ---
 
