@@ -30,7 +30,7 @@ Welcome to my academic knowledge base. This repository hosts a collection of **h
 
 ## 🤝 Contributions & Feedback
 These notes reflect my personal understanding of the lectures. If you are a fellow student or an expert and you notice:
-- **Mathematical errors** or typos in the derivations;
+- **Errors** or typos in the derivations;
 - **Conceptual gaps** that could be improved;
 - **New topics or additional content** that should be included;
 
