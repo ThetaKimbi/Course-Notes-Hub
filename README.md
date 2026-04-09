@@ -1,4 +1,4 @@
-# 🎓 Course-Notes-Hub - MSc Computer Science and Engineering Notes
+# 🎓 Course Notes Hub - MSc Computer Science and Engineering
 
 Welcome to my academic knowledge base. This repository hosts a collection of **handwritten notes** and study materials for the **Master of Science in Computer Science and Engineering** at **Politecnico di Milano**.
 
