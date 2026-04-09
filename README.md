@@ -20,7 +20,7 @@ Welcome to my academic knowledge base. This repository hosts a collection of **h
 ---
 
 ## ✍️ Format & Accessibility
-- **Source:** Hand-written notes on tablet, optimized for clarity and mathematical notation.
+- **Source:** Hand-written notes on tablet.
 - **Delivery:** Exported as high-quality **PDFs** organized by module or topic.
 - **Language:** English.
 
