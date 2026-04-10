@@ -8,9 +8,9 @@ Welcome to my academic knowledge base. This repository hosts a collection of **h
 
 | Course | Key Topics | Format | Status |
 | :--- | :--- | :--- | :--- |
-| **[Machine Learning](./Machine-Learning)** | Statistical Learning Theory, Kernel Methods, and Reinforcement Learning. | 📄 PDF | ⚪ |
-| **[Math Methods for Image Processing](./Image-Processing)** | Sparse Coding, Dictionary Learning (KSVD), and Inverse Problems. | 📄 PDF | 🟢 |
-| **[Model Identification & Data Analysis](./MIDA)** | Stochastic processes and ARMA/ARMAX parametric modeling. | 📄 PDF | ⚪ |
+| **[Machine Learning](./Machine-Learning)** | Statistical Learning Theory, Kernel Methods, and Reinforcement Learning | 📄 PDF | ⚪ |
+| **[Math Methods for Image Processing](./Image-Processing)** | Sparse Coding, Dictionary Learning (KSVD), and Inverse Problems | 📄 PDF | 🟢 |
+| **[Model Identification & Data Analysis](./MIDA)** | Stochastic processes and ARMA/ARMAX parametric modeling | 📄 PDF | ⚪ |
 
 ### 🔑 Legend
 - 🟢 **Completed**: All lectures and topics are covered and organized.
